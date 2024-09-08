@@ -208,6 +208,9 @@ section{
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
+.text-container{
+    font-size: 10px;
+}
 .about-details-container{
     justify-content: center;
     flex-direction: column;
