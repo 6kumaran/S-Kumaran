@@ -13,6 +13,9 @@ body{
 html{
     scroll-behavior: smooth;
 }
+.text-container{
+    font-size: large;
+}
 p{
     color: rgb(85,85,85);
 }
